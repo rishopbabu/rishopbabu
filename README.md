@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishopbabu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning swift
-- 📫 How to reach me 
+- 👀 I’m interested in Gamimg
+- 🌱 I’m currently learning swift Kit's
+- 📫 How to reach me send an e-mail to rishopbabu22@gmail.com
 
 <!---
 rishopbabu/rishopbabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
