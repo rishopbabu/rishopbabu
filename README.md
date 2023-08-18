@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishopbabu
-- 👀 I’m interested in Gamimg
+- 👀 I’m interested in Gaming
 - 🌱 I’m currently learning swift Kit's
 - 📫 How to reach me send an e-mail to rishopbabu22@gmail.com
 
