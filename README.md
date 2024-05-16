@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishopbabu
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning FastAPI.
+- 🌱 I’m currently learning SwiftUI.
 - 📫 How to reach me send an e-mail to rishopbabu22@gmail.com
 
 <!---
